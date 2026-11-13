@@ -1,0 +1,2460 @@
+{
+ "title": "Chapter 1 — The Signal from Mars",
+ "duration": 182.0,
+ "chapters": [
+  {
+   "t": 0,
+   "n": 1,
+   "ar": "مركز التحكم",
+   "en": "Mission control"
+  },
+  {
+   "t": 14,
+   "n": 2,
+   "ar": "نولان والمديرة",
+   "en": "Nolan and the director"
+  },
+  {
+   "t": 36,
+   "n": 3,
+   "ar": "فلاش باك · 2080",
+   "en": "Flashback · 2080"
+  },
+  {
+   "t": 69.5,
+   "n": 4,
+   "ar": "عودة إلى الحاضر",
+   "en": "Back to the present"
+  },
+  {
+   "t": 82,
+   "n": 5,
+   "ar": "الإشارة الغامضة",
+   "en": "The mysterious signal"
+  },
+  {
+   "t": 104,
+   "n": 6,
+   "ar": "ارتباك في القاعة",
+   "en": "Panic in mission control"
+  },
+  {
+   "t": 120,
+   "n": 7,
+   "ar": "مهمة روتينية",
+   "en": "A routine mission interrupts"
+  },
+  {
+   "t": 132,
+   "n": 8,
+   "ar": "بعد ساعة",
+   "en": "One hour later"
+  },
+  {
+   "t": 146,
+   "n": 9,
+   "ar": "المهمتان",
+   "en": "The two missions"
+  },
+  {
+   "t": 176,
+   "n": 10,
+   "ar": "قرار اللاعب",
+   "en": "Player decision"
+  }
+ ],
+ "shots": [
+  {
+   "t0": 0,
+   "t1": 14,
+   "from": [
+    -9.5,
+    7.6,
+    19.5
+   ],
+   "to": [
+    -2.6,
+    2.4,
+    9.5
+   ],
+   "look": [
+    0,
+    5.5,
+    -20
+   ],
+   "lookTo": [
+    0,
+    4.2,
+    -20
+   ],
+   "ease": "inout",
+   "fov": 50,
+   "shake": 0.0,
+   "lookActor": null,
+   "name": "establishing"
+  },
+  {
+   "t0": 14,
+   "t1": 14.5,
+   "from": [
+    -1.7,
+    1.55,
+    12.1
+   ],
+   "to": [
+    -1.7,
+    1.55,
+    12.0
+   ],
+   "look": [
+    0,
+    1.6,
+    13
+   ],
+   "lookTo": [
+    0,
+    1.6,
+    13
+   ],
+   "ease": "linear",
+   "fov": 38,
+   "shake": 0.0,
+   "lookActor": null,
+   "name": "tracking"
+  },
+  {
+   "t0": 14.5,
+   "t1": 34.5,
+   "from": [
+    -1.7,
+    1.55,
+    12.0
+   ],
+   "to": [
+    -1.7,
+    1.55,
+    -1.6
+   ],
+   "look": [
+    0.0,
+    1.6,
+    13.0
+   ],
+   "lookTo": [
+    0.0,
+    1.6,
+    -0.6
+   ],
+   "ease": "linear",
+   "fov": 38,
+   "shake": 0.0,
+   "lookActor": null,
+   "name": "tracking"
+  },
+  {
+   "t0": 34.5,
+   "t1": 37.5,
+   "from": [
+    -1.7,
+    1.55,
+    -1.6
+   ],
+   "to": [
+    -1.4,
+    1.58,
+    -1.9
+   ],
+   "look": [
+    0.0,
+    1.6,
+    -0.6
+   ],
+   "lookTo": [
+    0.0,
+    1.62,
+    -0.6
+   ],
+   "ease": "inout",
+   "fov": 36,
+   "shake": 0.0,
+   "lookActor": null,
+   "name": "tracking"
+  },
+  {
+   "t0": 37.4,
+   "t1": 43,
+   "from": [
+    8,
+    1.75,
+    2.4
+   ],
+   "to": [
+    8,
+    1.6,
+    5.4
+   ],
+   "look": [
+    8,
+    1.15,
+    8.2
+   ],
+   "lookTo": [
+    8,
+    1.15,
+    8.2
+   ],
+   "ease": "inout",
+   "fov": 45,
+   "shake": 0.0,
+   "lookActor": null,
+   "name": "lab_2080"
+  },
+  {
+   "t0": 43,
+   "t1": 47,
+   "from": [
+    8,
+    1.6,
+    5.4
+   ],
+   "to": [
+    6.4,
+    1.7,
+    4.6
+   ],
+   "look": [
+    8,
+    1.2,
+    8.2
+   ],
+   "lookTo": [
+    9,
+    1.6,
+    12.6
+   ],
+   "ease": "inout",
+   "fov": 45,
+   "shake": 0.006,
+   "lookActor": null,
+   "name": "alarm"
+  },
+  {
+   "t0": 47,
+   "t1": 52,
+   "from": [
+    -46,
+    4,
+    34
+   ],
+   "to": [
+    -40,
+    5,
+    30
+   ],
+   "look": [
+    10,
+    8,
+    0
+   ],
+   "lookTo": [
+    30,
+    30,
+    -20
+   ],
+   "ease": "inout",
+   "fov": 45,
+   "shake": 0.012,
+   "lookActor": null,
+   "name": "meteor"
+  },
+  {
+   "t0": 52,
+   "t1": 55.5,
+   "from": [
+    -19.5,
+    1.75,
+    0.4
+   ],
+   "to": [
+    -18.5,
+    1.7,
+    0.2
+   ],
+   "look": [
+    10,
+    1.4,
+    0
+   ],
+   "lookTo": [
+    10,
+    1.3,
+    0
+   ],
+   "ease": "inout",
+   "fov": 45,
+   "shake": 0.05,
+   "lookActor": null,
+   "name": "evacuation"
+  },
+  {
+   "t0": 55.5,
+   "t1": 59.2,
+   "from": [
+    -90,
+    40,
+    80
+   ],
+   "to": [
+    -85,
+    34,
+    74
+   ],
+   "look": [
+    20,
+    2,
+    0
+   ],
+   "lookTo": [
+    30,
+    2,
+    0
+   ],
+   "ease": "inout",
+   "fov": 45,
+   "shake": 0.0,
+   "lookActor": null,
+   "name": "impact"
+  },
+  {
+   "t0": 59.2,
+   "t1": 68.0,
+   "from": [
+    13.6,
+    1.6,
+    4.0
+   ],
+   "to": [
+    11.7,
+    1.5,
+    9.9
+   ],
+   "look": [
+    12.2,
+    1.7,
+    13.3
+   ],
+   "lookTo": [
+    12.2,
+    1.75,
+    13.3
+   ],
+   "ease": "inout",
+   "fov": 48,
+   "shake": 0.0,
+   "lookActor": null,
+   "name": "abandoned_lab"
+  },
+  {
+   "t0": 68.8,
+   "t1": 75,
+   "from": [
+    4.143,
+    1.32,
+    -3.311
+   ],
+   "to": [
+    3.972,
+    1.3,
+    -3.129
+   ],
+   "look": [
+    2.954,
+    1.15,
+    -2.853
+   ],
+   "lookTo": [
+    2.911,
+    1.18,
+    -3.099
+   ],
+   "ease": "inout",
+   "fov": 40,
+   "shake": 0.0,
+   "lookActor": null,
+   "name": "operator_side"
+  },
+  {
+   "t0": 75,
+   "t1": 78,
+   "from": [
+    2.853,
+    1.5,
+    -1.668
+   ],
+   "to": [
+    2.901,
+    1.42,
+    -1.981
+   ],
+   "look": [
+    2.84,
+    1.12,
+    -3.513
+   ],
+   "lookTo": [
+    2.84,
+    1.12,
+    -3.513
+   ],
+   "ease": "inout",
+   "fov": 42,
+   "shake": 0.0,
+   "lookActor": null,
+   "name": "operator_ots"
+  },
+  {
+   "t0": 78,
+   "t1": 82,
+   "from": [
+    4.344,
+    1.45,
+    -4.208
+   ],
+   "to": [
+    4.31,
+    1.5,
+    -4.405
+   ],
+   "look": [
+    2.464,
+    1.3,
+    -2.159
+   ],
+   "lookTo": [
+    -0.1,
+    1.6,
+    -0.6
+   ],
+   "ease": "inout",
+   "fov": 44,
+   "shake": 0.0,
+   "lookActor": null,
+   "name": "operator_calls"
+  },
+  {
+   "t0": 82,
+   "t1": 86,
+   "from": [
+    4.222,
+    1.55,
+    -4.035
+   ],
+   "to": [
+    4.189,
+    1.58,
+    -3.928
+   ],
+   "look": [
+    1.6,
+    1.6,
+    -1.0
+   ],
+   "lookTo": [
+    3.124,
+    1.5,
+    -1.867
+   ],
+   "ease": "inout",
+   "fov": 46,
+   "shake": 0.0,
+   "lookActor": null,
+   "name": "approach"
+  },
+  {
+   "t0": 86,
+   "t1": 92,
+   "from": [
+    3.461,
+    1.78,
+    -0.2
+   ],
+   "to": [
+    3.411,
+    1.74,
+    -0.496
+   ],
+   "look": [
+    2.84,
+    1.15,
+    -3.513
+   ],
+   "lookTo": [
+    2.84,
+    1.15,
+    -3.513
+   ],
+   "ease": "inout",
+   "fov": 40,
+   "shake": 0.0,
+   "lookActor": null,
+   "name": "behind_three"
+  },
+  {
+   "t0": 92,
+   "t1": 97,
+   "from": [
+    4.476,
+    0.95,
+    -2.557
+   ],
+   "to": [
+    4.452,
+    0.92,
+    -2.4
+   ],
+   "look": [
+    3.083,
+    1.5,
+    -1.809
+   ],
+   "lookTo": [
+    3.083,
+    1.5,
+    -1.809
+   ],
+   "ease": "inout",
+   "fov": 38,
+   "shake": 0.0,
+   "lookActor": null,
+   "name": "low_side"
+  },
+  {
+   "t0": 97,
+   "t1": 101,
+   "from": [
+    4.054,
+    1.9,
+    0.002
+   ],
+   "to": [
+    4.007,
+    2.1,
+    0.315
+   ],
+   "look": [
+    0,
+    6.6,
+    -20
+   ],
+   "lookTo": [
+    0,
+    6.6,
+    -20
+   ],
+   "ease": "inout",
+   "fov": 46,
+   "shake": 0.0,
+   "lookActor": null,
+   "name": "wall_reveal"
+  },
+  {
+   "t0": 101,
+   "t1": 104,
+   "from": [
+    2.872,
+    1.72,
+    -3.326
+   ],
+   "to": [
+    2.886,
+    1.7,
+    -3.247
+   ],
+   "look": [
+    3.154,
+    1.6,
+    -1.69
+   ],
+   "lookTo": [
+    3.154,
+    1.6,
+    -1.69
+   ],
+   "ease": "inout",
+   "fov": 42,
+   "shake": 0.0,
+   "lookActor": null,
+   "name": "exchange_looks"
+  },
+  {
+   "t0": 104,
+   "t1": 112,
+   "from": [
+    4.476,
+    1.9,
+    -1.085
+   ],
+   "to": [
+    -7.5,
+    9.0,
+    16.5
+   ],
+   "look": [
+    3.022,
+    1.4,
+    -2.458
+   ],
+   "lookTo": [
+    0,
+    3.0,
+    -9
+   ],
+   "ease": "inout",
+   "fov": 48,
+   "shake": 0.0,
+   "lookActor": null,
+   "name": "pull_back"
+  },
+  {
+   "t0": 112,
+   "t1": 120,
+   "from": [
+    0.2,
+    1.7,
+    3.6
+   ],
+   "to": [
+    0.4,
+    1.7,
+    3.2
+   ],
+   "look": [
+    2.0,
+    1.62,
+    -0.55
+   ],
+   "lookTo": [
+    2.0,
+    1.62,
+    -0.55
+   ],
+   "ease": "inout",
+   "fov": 42,
+   "shake": 0.0,
+   "lookActor": null,
+   "name": "restore_order"
+  },
+  {
+   "t0": 120,
+   "t1": 132,
+   "from": [
+    -0.6,
+    1.66,
+    1.6
+   ],
+   "to": [
+    -0.4,
+    1.66,
+    1.3
+   ],
+   "look": [
+    2.6,
+    1.6,
+    -0.5
+   ],
+   "lookTo": [
+    2.6,
+    1.6,
+    -0.5
+   ],
+   "ease": "inout",
+   "fov": 44,
+   "shake": 0.0,
+   "lookActor": null,
+   "name": "officer"
+  },
+  {
+   "t0": 132.4,
+   "t1": 143.4,
+   "from": [
+    34.6,
+    1.62,
+    -6.7
+   ],
+   "to": [
+    33.0,
+    1.6,
+    -6.45
+   ],
+   "look": [
+    29.6,
+    1.5,
+    -4.6
+   ],
+   "lookTo": [
+    29.6,
+    1.5,
+    -4.6
+   ],
+   "ease": "inout",
+   "fov": 40,
+   "shake": 0.0,
+   "lookActor": null,
+   "name": "prep_area"
+  },
+  {
+   "t0": 143.4,
+   "t1": 146.2,
+   "from": [
+    33.0,
+    1.6,
+    -6.45
+   ],
+   "to": [
+    32.6,
+    1.62,
+    -6.3
+   ],
+   "look": [
+    29.0,
+    1.5,
+    -5.6
+   ],
+   "lookTo": [
+    24.5,
+    1.5,
+    -6.0
+   ],
+   "ease": "inout",
+   "fov": 42,
+   "shake": 0.0,
+   "lookActor": null,
+   "name": "prep_area"
+  },
+  {
+   "t0": 146.2,
+   "t1": 155.6,
+   "from": [
+    2.4,
+    6.25,
+    22.3
+   ],
+   "to": [
+    2.1,
+    6.2,
+    22.5
+   ],
+   "look": [
+    -6.0,
+    5.6,
+    23.6
+   ],
+   "lookTo": [
+    0.2,
+    6.0,
+    25.8
+   ],
+   "ease": "inout",
+   "fov": 44,
+   "shake": 0.0,
+   "lookActor": null,
+   "name": "office_entry"
+  },
+  {
+   "t0": 155.6,
+   "t1": 161.2,
+   "from": [
+    1.55,
+    6.25,
+    25.62
+   ],
+   "to": [
+    1.48,
+    6.24,
+    25.7
+   ],
+   "look": [
+    -1.1,
+    6.05,
+    27.3
+   ],
+   "lookTo": [
+    -1.1,
+    6.05,
+    27.3
+   ],
+   "ease": "inout",
+   "fov": 36,
+   "shake": 0.0,
+   "lookActor": null,
+   "name": "director_cu"
+  },
+  {
+   "t0": 161.2,
+   "t1": 167.2,
+   "from": [
+    -0.45,
+    6.45,
+    26.3
+   ],
+   "to": [
+    -0.38,
+    6.46,
+    26.45
+   ],
+   "look": [
+    0.0,
+    6.5,
+    28.44
+   ],
+   "lookTo": [
+    0.0,
+    6.5,
+    28.44
+   ],
+   "ease": "inout",
+   "fov": 54,
+   "shake": 0.0,
+   "lookActor": null,
+   "name": "missions_display"
+  },
+  {
+   "t0": 167.2,
+   "t1": 173.2,
+   "from": [
+    -0.15,
+    6.14,
+    26.25
+   ],
+   "to": [
+    -0.2,
+    6.13,
+    26.35
+   ],
+   "look": [
+    -1.1,
+    6.11,
+    27.3
+   ],
+   "lookTo": [
+    -1.1,
+    6.11,
+    27.3
+   ],
+   "ease": "inout",
+   "fov": 32,
+   "shake": 0.0,
+   "lookActor": null,
+   "name": "director_serious"
+  },
+  {
+   "t0": 173.2,
+   "t1": 176.2,
+   "from": [
+    -0.05,
+    6.14,
+    27.0
+   ],
+   "to": [
+    -0.02,
+    6.13,
+    26.92
+   ],
+   "look": [
+    0.4,
+    6.12,
+    26.1
+   ],
+   "lookTo": [
+    0.4,
+    6.12,
+    26.1
+   ],
+   "ease": "inout",
+   "fov": 30,
+   "shake": 0.0,
+   "lookActor": null,
+   "name": "nolan_cu"
+  },
+  {
+   "t0": 176.2,
+   "t1": 180.0,
+   "from": [
+    1.2,
+    6.32,
+    24.3
+   ],
+   "to": [
+    0.95,
+    6.3,
+    24.75
+   ],
+   "look": [
+    -0.1,
+    6.4,
+    28.4
+   ],
+   "lookTo": [
+    -0.1,
+    6.4,
+    28.4
+   ],
+   "ease": "inout",
+   "fov": 44,
+   "shake": 0.0,
+   "lookActor": null,
+   "name": "over_the_shoulder"
+  },
+  {
+   "t0": 180.0,
+   "t1": 182.0,
+   "from": [
+    0.95,
+    6.3,
+    24.75
+   ],
+   "to": [
+    0.95,
+    6.3,
+    24.75
+   ],
+   "look": [
+    -0.1,
+    6.4,
+    28.4
+   ],
+   "lookTo": [
+    -0.1,
+    6.4,
+    28.4
+   ],
+   "ease": "inout",
+   "fov": 44,
+   "shake": 0.0,
+   "lookActor": null,
+   "name": "over_the_shoulder"
+  }
+ ],
+ "events": [
+  {
+   "world": "mc",
+   "t": 0
+  },
+  {
+   "mc": "stage",
+   "v": 0,
+   "t": 0
+  },
+  {
+   "mc": "emergency",
+   "v": 0,
+   "t": 0
+  },
+  {
+   "mc": "signal",
+   "v": 0,
+   "t": 0
+  },
+  {
+   "mc": "wall",
+   "v": "planning",
+   "t": 0
+  },
+  {
+   "crowd": "work",
+   "t": 0
+  },
+  {
+   "a": "nolan",
+   "do": "place",
+   "pos": [
+    0.45,
+    0,
+    13.0
+   ],
+   "face": 3.141592653589793,
+   "t": 0
+  },
+  {
+   "a": "director",
+   "do": "place",
+   "pos": [
+    -0.45,
+    0,
+    13.0
+   ],
+   "face": 3.141592653589793,
+   "t": 0
+  },
+  {
+   "a": "operator",
+   "do": "place",
+   "pos": [
+    3.029,
+    -0.33,
+    -2.419
+   ],
+   "face": 3.3122,
+   "t": 0
+  },
+  {
+   "a": "operator",
+   "do": "sit",
+   "v": 1,
+   "t": 0
+  },
+  {
+   "a": "operator",
+   "do": "gesture",
+   "v": "type",
+   "t": 0
+  },
+  {
+   "a": "officer",
+   "do": "place",
+   "pos": [
+    11.3,
+    0,
+    -4.1
+   ],
+   "face": -1.2,
+   "t": 0
+  },
+  {
+   "a": "officer",
+   "do": "hide",
+   "t": 0
+  },
+  {
+   "a": "extra1",
+   "do": "place",
+   "pos": [
+    -14,
+    0,
+    -12.5
+   ],
+   "face": 1.5707963267948966,
+   "t": 0
+  },
+  {
+   "a": "extra2",
+   "do": "place",
+   "pos": [
+    13,
+    0,
+    12
+   ],
+   "face": -1.5707963267948966,
+   "t": 0
+  },
+  {
+   "sound": "ambience_mc",
+   "t": 0
+  },
+  {
+   "a": "extra1",
+   "do": "walk",
+   "path": [
+    [
+     -14,
+     -12.5
+    ],
+    [
+     13,
+     -12.5
+    ]
+   ],
+   "speed": 1.25,
+   "t": 0.5
+  },
+  {
+   "a": "extra2",
+   "do": "walk",
+   "path": [
+    [
+     13,
+     12
+    ],
+    [
+     5,
+     10.5
+    ],
+    [
+     2.4,
+     7.4
+    ]
+   ],
+   "speed": 1.0,
+   "t": 1.0
+  },
+  {
+   "card": {
+    "ar": "الفصل الأول · إشارة من المريخ",
+    "en": "CHAPTER 1 · THE SIGNAL FROM MARS",
+    "dur": 5.0,
+    "style": "title"
+   },
+   "t": 1.5
+  },
+  {
+   "card": {
+    "ar": "مركز التحكم ميريديان · الأرض · 2110",
+    "en": "MERIDIAN MISSION CONTROL · EARTH · 2110",
+    "dur": 4.5,
+    "style": "place"
+   },
+   "t": 8.0
+  },
+  {
+   "a": "nolan",
+   "do": "walk",
+   "path": [
+    [
+     0.45,
+     13.0
+    ],
+    [
+     0.45,
+     -0.6
+    ]
+   ],
+   "speed": 0.68,
+   "t": 14.5
+  },
+  {
+   "a": "director",
+   "do": "walk",
+   "path": [
+    [
+     -0.45,
+     13.0
+    ],
+    [
+     -0.45,
+     -0.6
+    ]
+   ],
+   "speed": 0.68,
+   "t": 14.5
+  },
+  {
+   "sub": {
+    "who": "director",
+    "ar": "ثلاثون عامًا يا نولان… وما زلت أفكر في محطة آريس كل يوم.",
+    "en": "Thirty years, Nolan… and I still think about Ares Station every day.",
+    "dur": 4.0,
+    "vo": false
+   },
+   "t": 15.5
+  },
+  {
+   "a": "director",
+   "do": "look",
+   "at": "nolan",
+   "t": 17
+  },
+  {
+   "a": "director",
+   "do": "look",
+   "at": null,
+   "t": 19.5
+  },
+  {
+   "sub": {
+    "who": "nolan",
+    "ar": "كانت أكبر مشروع علمي في تاريخ الوكالة.",
+    "en": "It was the biggest science project in the agency's history.",
+    "dur": 3.0,
+    "vo": false
+   },
+   "t": 20.0
+  },
+  {
+   "a": "nolan",
+   "do": "look",
+   "at": "director",
+   "t": 20.2
+  },
+  {
+   "a": "nolan",
+   "do": "look",
+   "at": null,
+   "t": 22.8
+  },
+  {
+   "a": "director",
+   "do": "expr",
+   "v": "serious",
+   "t": 23.5
+  },
+  {
+   "sub": {
+    "who": "director",
+    "ar": "ستة علماء. ألف وأربعمئة يوم من الأبحاث. كانوا على بُعد أيام من إرسال كل شيء إلى الأرض.",
+    "en": "Six scientists. Fourteen hundred days of research. They were days away from sending everything home.",
+    "dur": 4.6,
+    "vo": false
+   },
+   "t": 23.5
+  },
+  {
+   "a": "director",
+   "do": "look",
+   "at": "nolan",
+   "t": 24.0
+  },
+  {
+   "a": "director",
+   "do": "look",
+   "at": null,
+   "t": 27.5
+  },
+  {
+   "a": "nolan",
+   "do": "expr",
+   "v": "serious",
+   "t": 28.5
+  },
+  {
+   "a": "nolan",
+   "do": "look",
+   "at": "director",
+   "t": 28.6
+  },
+  {
+   "sub": {
+    "who": "nolan",
+    "ar": "والعيّنة… AR-7؟",
+    "en": "And the specimen… AR-7?",
+    "dur": 2.4,
+    "vo": false
+   },
+   "t": 28.6
+  },
+  {
+   "a": "nolan",
+   "do": "look",
+   "at": null,
+   "t": 31.2
+  },
+  {
+   "sub": {
+    "who": "director",
+    "ar": "ضاعت معهم. كل شيء ضاع في صباح واحد… حين جاء النيزك.",
+    "en": "Lost with them. Everything was lost in one morning… when the meteor came.",
+    "dur": 4.6,
+    "vo": false
+   },
+   "t": 31.6
+  },
+  {
+   "a": "director",
+   "do": "look",
+   "at": "nolan",
+   "t": 32.0
+  },
+  {
+   "fade": {
+    "to": [
+     1.0,
+     0.86,
+     0.66,
+     1.0
+    ],
+    "dur": 1.8
+   },
+   "t": 35.6
+  },
+  {
+   "sound": "swell",
+   "t": 35.6
+  },
+  {
+   "world": "ares_intact",
+   "t": 37.4
+  },
+  {
+   "ares": "reset",
+   "t": 37.4
+  },
+  {
+   "fade": {
+    "to": [
+     1.0,
+     0.86,
+     0.66,
+     0.0
+    ],
+    "dur": 1.2
+   },
+   "t": 37.6
+  },
+  {
+   "card": {
+    "ar": "محطة آريس البحثية · المريخ · 2080",
+    "en": "ARES RESEARCH STATION · MARS · 2080",
+    "dur": 4.0,
+    "style": "place"
+   },
+   "t": 38.6
+  },
+  {
+   "ares": "alarm",
+   "v": 1,
+   "t": 43
+  },
+  {
+   "sound": "alarm",
+   "t": 43
+  },
+  {
+   "ares": "evac",
+   "t": 44
+  },
+  {
+   "ares": "meteor",
+   "start": 46.0,
+   "impact": 56.0,
+   "t": 46
+  },
+  {
+   "sound": "rumble",
+   "t": 48
+  },
+  {
+   "ares": "power",
+   "v": 0.5,
+   "t": 53.6
+  },
+  {
+   "sound": "powerdown",
+   "t": 54.2
+  },
+  {
+   "ares": "power",
+   "v": 0,
+   "t": 54.3
+  },
+  {
+   "sound": "boom",
+   "t": 56.0
+  },
+  {
+   "fade": {
+    "to": [
+     0,
+     0,
+     0,
+     1.0
+    ],
+    "dur": 1.2
+   },
+   "t": 58.0
+  },
+  {
+   "world": "ares_ruined",
+   "t": 59.2
+  },
+  {
+   "fade": {
+    "to": [
+     0,
+     0,
+     0,
+     0.0
+    ],
+    "dur": 1.6
+   },
+   "t": 60.2
+  },
+  {
+   "sound": "wind",
+   "t": 60.2
+  },
+  {
+   "sub": {
+    "who": "director",
+    "ar": "لم ينجُ أحد… ولم يعد أحد إلى هناك منذ ذلك اليوم.",
+    "en": "No one survived… and no one has been back since that day.",
+    "dur": 4.6,
+    "vo": true
+   },
+   "t": 61.5
+  },
+  {
+   "fade": {
+    "to": [
+     0,
+     0,
+     0,
+     1.0
+    ],
+    "dur": 1.0
+   },
+   "t": 67.6
+  },
+  {
+   "world": "mc",
+   "t": 68.8
+  },
+  {
+   "crowd": "work",
+   "t": 68.8
+  },
+  {
+   "sound": "ambience_mc",
+   "t": 68.8
+  },
+  {
+   "a": "nolan",
+   "do": "place",
+   "pos": [
+    0.45,
+    0,
+    -0.6
+   ],
+   "face": 3.141592653589793,
+   "t": 68.8
+  },
+  {
+   "a": "director",
+   "do": "place",
+   "pos": [
+    -0.45,
+    0,
+    -0.6
+   ],
+   "face": 3.141592653589793,
+   "t": 68.8
+  },
+  {
+   "a": "nolan",
+   "do": "look",
+   "at": "director",
+   "t": 68.8
+  },
+  {
+   "a": "director",
+   "do": "look",
+   "at": "nolan",
+   "t": 68.8
+  },
+  {
+   "a": "director",
+   "do": "expr",
+   "v": "neutral",
+   "t": 68.8
+  },
+  {
+   "a": "nolan",
+   "do": "expr",
+   "v": "neutral",
+   "t": 68.8
+  },
+  {
+   "fade": {
+    "to": [
+     0,
+     0,
+     0,
+     0.0
+    ],
+    "dur": 0.8
+   },
+   "t": 69.5
+  },
+  {
+   "mc": "signal",
+   "v": 1,
+   "t": 72.4
+  },
+  {
+   "sound": "signal",
+   "t": 72.4
+  },
+  {
+   "a": "operator",
+   "do": "gesture",
+   "v": "none",
+   "t": 73.2
+  },
+  {
+   "a": "operator",
+   "do": "lean",
+   "v": 0.38,
+   "t": 73.4
+  },
+  {
+   "a": "operator",
+   "do": "expr",
+   "v": "surprised",
+   "t": 73.6
+  },
+  {
+   "a": "operator",
+   "do": "lean",
+   "v": 0.05,
+   "t": 77.6
+  },
+  {
+   "a": "operator",
+   "do": "look",
+   "at": [
+    -0.5,
+    1.6,
+    -0.6
+   ],
+   "t": 77.6
+  },
+  {
+   "a": "operator",
+   "do": "gesture",
+   "v": "raise",
+   "t": 77.8
+  },
+  {
+   "sub": {
+    "who": "operator",
+    "ar": "دكتورة سِن! أحتاجك هنا… الآن!",
+    "en": "Dr. Sen! I need you over here — now!",
+    "dur": 2.8,
+    "vo": false
+   },
+   "t": 78.2
+  },
+  {
+   "a": "director",
+   "do": "look",
+   "at": "operator",
+   "t": 79.4
+  },
+  {
+   "a": "nolan",
+   "do": "look",
+   "at": "operator",
+   "t": 79.6
+  },
+  {
+   "a": "operator",
+   "do": "gesture",
+   "v": "none",
+   "t": 81.0
+  },
+  {
+   "a": "director",
+   "do": "walk",
+   "path": [
+    [
+     -0.45,
+     -0.6
+    ],
+    [
+     1.6,
+     -0.9
+    ],
+    [
+     3.7,
+     -1.763
+    ]
+   ],
+   "speed": 1.25,
+   "face": 3.3122,
+   "t": 82.0
+  },
+  {
+   "a": "nolan",
+   "do": "walk",
+   "path": [
+    [
+     0.45,
+     -0.6
+    ],
+    [
+     2.607,
+     -1.626
+    ]
+   ],
+   "speed": 1.1,
+   "face": 3.3122,
+   "t": 82.3
+  },
+  {
+   "sub": {
+    "who": "director",
+    "ar": "ماذا لديك يا إيلي؟",
+    "en": "What have you got, Eli?",
+    "dur": 1.8,
+    "vo": false
+   },
+   "t": 84.2
+  },
+  {
+   "a": "operator",
+   "do": "look",
+   "at": null,
+   "t": 85.6
+  },
+  {
+   "a": "operator",
+   "do": "lean",
+   "v": 0.2,
+   "t": 85.6
+  },
+  {
+   "a": "nolan",
+   "do": "look",
+   "at": [
+    2.84,
+    1.12,
+    -3.513
+   ],
+   "t": 86.0
+  },
+  {
+   "a": "director",
+   "do": "look",
+   "at": [
+    2.84,
+    1.12,
+    -3.513
+   ],
+   "t": 86.0
+  },
+  {
+   "mc": "trace",
+   "v": 1,
+   "t": 86.0
+  },
+  {
+   "sub": {
+    "who": "operator",
+    "ar": "إشارة على 1420 ميغاهرتز. ليست من أيٍّ من أقمارنا… وتتكرر: 2، 3، 5، 7، 11.",
+    "en": "A signal on 1420 megahertz. Not one of ours… and it repeats: 2, 3, 5, 7, 11.",
+    "dur": 4.8,
+    "vo": false
+   },
+   "t": 86.6
+  },
+  {
+   "mc": "stage",
+   "v": 2,
+   "t": 91.0
+  },
+  {
+   "sub": {
+    "who": "nolan",
+    "ar": "تتبّع المصدر.",
+    "en": "Trace the source.",
+    "dur": 1.8,
+    "vo": false
+   },
+   "t": 92.4
+  },
+  {
+   "a": "operator",
+   "do": "lean",
+   "v": 0.32,
+   "t": 94.4
+  },
+  {
+   "mc": "stage",
+   "v": 3,
+   "t": 95.0
+  },
+  {
+   "sub": {
+    "who": "operator",
+    "ar": "المريخ… المصدر هو المريخ.",
+    "en": "Mars… the source is Mars.",
+    "dur": 2.2,
+    "vo": false
+   },
+   "t": 95.2
+  },
+  {
+   "a": "nolan",
+   "do": "look",
+   "at": [
+    0,
+    6.5,
+    -20
+   ],
+   "t": 96.6
+  },
+  {
+   "a": "director",
+   "do": "look",
+   "at": [
+    0,
+    6.5,
+    -20
+   ],
+   "t": 96.6
+  },
+  {
+   "a": "operator",
+   "do": "look",
+   "at": [
+    0,
+    6.5,
+    -20
+   ],
+   "t": 96.6
+  },
+  {
+   "mc": "stage",
+   "v": 4,
+   "t": 97.6
+  },
+  {
+   "sub": {
+    "who": "operator",
+    "ar": "يوتوبيا بلانيشيا، 43 درجة شمالًا… هذه إحداثيات محطة آريس.",
+    "en": "Utopia Planitia, 43 degrees north… those are the coordinates of Ares Station.",
+    "dur": 3.2,
+    "vo": false
+   },
+   "t": 97.8
+  },
+  {
+   "a": "nolan",
+   "do": "look",
+   "at": "director",
+   "t": 101.2
+  },
+  {
+   "a": "nolan",
+   "do": "expr",
+   "v": "surprised",
+   "t": 101.2
+  },
+  {
+   "a": "director",
+   "do": "look",
+   "at": "nolan",
+   "t": 101.3
+  },
+  {
+   "a": "director",
+   "do": "expr",
+   "v": "surprised",
+   "t": 101.3
+  },
+  {
+   "sub": {
+    "who": "director",
+    "ar": "مستحيل… تلك المحطة ميتة منذ ثلاثين عامًا.",
+    "en": "Impossible… that station has been dead for thirty years.",
+    "dur": 2.6,
+    "vo": false
+   },
+   "t": 102.0
+  },
+  {
+   "mc": "emergency",
+   "v": 1,
+   "t": 104.3
+  },
+  {
+   "sound": "alarm_soft",
+   "t": 104.3
+  },
+  {
+   "crowd": "panic",
+   "t": 104.6
+  },
+  {
+   "sub": {
+    "who": "crowd",
+    "ar": "— هل هذا حقيقي؟  — من فعّل الإنذار؟  — إنها من المريخ!",
+    "en": "— Is this real?  — Who raised the alarm?  — It's coming from Mars!",
+    "dur": 3.6,
+    "vo": false
+   },
+   "t": 106.0
+  },
+  {
+   "a": "director",
+   "do": "look",
+   "at": [
+    0,
+    1.6,
+    6
+   ],
+   "t": 108.5
+  },
+  {
+   "a": "nolan",
+   "do": "look",
+   "at": [
+    -3,
+    1.6,
+    4
+   ],
+   "t": 108.6
+  },
+  {
+   "a": "nolan",
+   "do": "walk",
+   "path": [
+    [
+     2.607,
+     -1.626
+    ],
+    [
+     1.4,
+     -0.7
+    ]
+   ],
+   "speed": 1.0,
+   "face": -0.35,
+   "t": 109.4
+  },
+  {
+   "a": "director",
+   "do": "walk",
+   "path": [
+    [
+     3.7,
+     -1.763
+    ],
+    [
+     2.6,
+     -0.4
+    ]
+   ],
+   "speed": 1.1,
+   "face": 0.0,
+   "t": 109.6
+  },
+  {
+   "a": "director",
+   "do": "gesture",
+   "v": "raise",
+   "t": 111.4
+  },
+  {
+   "a": "director",
+   "do": "expr",
+   "v": "serious",
+   "t": 111.4
+  },
+  {
+   "sub": {
+    "who": "director",
+    "ar": "الجميع، اهدأوا! تحقّقوا من الإشارة عبر ثلاث محطات أرضية مستقلة.",
+    "en": "Everyone, stay calm! Verify the signal through three independent ground stations.",
+    "dur": 3.8,
+    "vo": false
+   },
+   "t": 111.6
+  },
+  {
+   "a": "director",
+   "do": "gesture",
+   "v": "none",
+   "t": 114.6
+  },
+  {
+   "a": "nolan",
+   "do": "gesture",
+   "v": "point",
+   "t": 115.0
+  },
+  {
+   "a": "nolan",
+   "do": "expr",
+   "v": "serious",
+   "t": 115.0
+  },
+  {
+   "sub": {
+    "who": "nolan",
+    "ar": "أوقفوا كل القنوات غير الضرورية. ركّزوا على 1420.",
+    "en": "Clear every non-essential channel. Focus on 1420.",
+    "dur": 3.4,
+    "vo": false
+   },
+   "t": 115.6
+  },
+  {
+   "crowd": "calm",
+   "t": 117.0
+  },
+  {
+   "a": "nolan",
+   "do": "gesture",
+   "v": "none",
+   "t": 118.6
+  },
+  {
+   "a": "nolan",
+   "do": "look",
+   "at": "director",
+   "t": 119.0
+  },
+  {
+   "a": "director",
+   "do": "look",
+   "at": "nolan",
+   "t": 119.0
+  },
+  {
+   "a": "officer",
+   "do": "show",
+   "t": 120
+  },
+  {
+   "a": "officer",
+   "do": "walk",
+   "path": [
+    [
+     11.3,
+     -4.1
+    ],
+    [
+     8.5,
+     -2.45
+    ],
+    [
+     4.4,
+     -1.0
+    ],
+    [
+     3.6,
+     -0.2
+    ]
+   ],
+   "speed": 1.35,
+   "face": -2.2,
+   "t": 120
+  },
+  {
+   "mc": "emergency",
+   "v": 0,
+   "t": 120.5
+  },
+  {
+   "a": "nolan",
+   "do": "look",
+   "at": "officer",
+   "t": 123.6
+  },
+  {
+   "a": "director",
+   "do": "look",
+   "at": "officer",
+   "t": 123.8
+  },
+  {
+   "sub": {
+    "who": "officer",
+    "ar": "كابتن نولان، مهمة الإطلاق EOS-2110-047 جاهزة للتحضيرات النهائية.",
+    "en": "Captain Nolan, launch mission EOS-2110-047 is ready for final preparations.",
+    "dur": 3.8,
+    "vo": false
+   },
+   "t": 124.4
+  },
+  {
+   "a": "nolan",
+   "do": "gesture",
+   "v": "nod",
+   "t": 128.4
+  },
+  {
+   "sub": {
+    "who": "nolan",
+    "ar": "مفهوم. أنا قادم.",
+    "en": "Understood. On my way.",
+    "dur": 1.8,
+    "vo": false
+   },
+   "t": 128.5
+  },
+  {
+   "a": "nolan",
+   "do": "gesture",
+   "v": "none",
+   "t": 129.4
+  },
+  {
+   "a": "nolan",
+   "do": "walk",
+   "path": [
+    [
+     1.4,
+     -0.7
+    ],
+    [
+     3.9,
+     -0.89
+    ],
+    [
+     8.5,
+     -2.45
+    ],
+    [
+     11.3,
+     -4.1
+    ],
+    [
+     16,
+     -6
+    ],
+    [
+     21,
+     -6
+    ],
+    [
+     23.5,
+     -6
+    ]
+   ],
+   "speed": 1.3,
+   "t": 129.6
+  },
+  {
+   "a": "director",
+   "do": "look",
+   "at": "nolan",
+   "t": 130.0
+  },
+  {
+   "a": "officer",
+   "do": "look",
+   "at": "nolan",
+   "t": 130.2
+  },
+  {
+   "fade": {
+    "to": [
+     0,
+     0,
+     0,
+     1.0
+    ],
+    "dur": 0.9
+   },
+   "t": 131.6
+  },
+  {
+   "a": "nolan",
+   "do": "place",
+   "pos": [
+    29.6,
+    0,
+    -5.15
+   ],
+   "face": 0.0,
+   "t": 132.4
+  },
+  {
+   "a": "nolan",
+   "do": "look",
+   "at": [
+    29.6,
+    1.4,
+    -1.0
+   ],
+   "t": 132.4
+  },
+  {
+   "a": "nolan",
+   "do": "expr",
+   "v": "thoughtful",
+   "t": 132.4
+  },
+  {
+   "a": "officer",
+   "do": "hide",
+   "t": 132.4
+  },
+  {
+   "a": "director",
+   "do": "place",
+   "pos": [
+    -1.1,
+    4.5,
+    27.3
+   ],
+   "face": 2.2455,
+   "t": 132.4
+  },
+  {
+   "a": "director",
+   "do": "look",
+   "at": null,
+   "t": 132.4
+  },
+  {
+   "a": "director",
+   "do": "expr",
+   "v": "serious",
+   "t": 132.4
+  },
+  {
+   "mc": "wall",
+   "v": "planning",
+   "t": 132.4
+  },
+  {
+   "crowd": "work",
+   "t": 132.4
+  },
+  {
+   "card": {
+    "ar": "بعد ساعة",
+    "en": "ONE HOUR LATER",
+    "dur": 2.8,
+    "style": "time"
+   },
+   "t": 132.6
+  },
+  {
+   "fade": {
+    "to": [
+     0,
+     0,
+     0,
+     0.0
+    ],
+    "dur": 1.2
+   },
+   "t": 135.6
+  },
+  {
+   "a": "nolan",
+   "do": "gesture",
+   "v": "glass",
+   "t": 137.0
+  },
+  {
+   "sound": "intercom",
+   "t": 139.6
+  },
+  {
+   "sub": {
+    "who": "director",
+    "ar": "نولان. إلى مكتبي… الآن.",
+    "en": "Nolan. My office… now.",
+    "dur": 2.6,
+    "vo": true
+   },
+   "t": 139.8
+  },
+  {
+   "a": "nolan",
+   "do": "gesture",
+   "v": "none",
+   "t": 141.0
+  },
+  {
+   "a": "nolan",
+   "do": "look",
+   "at": null,
+   "t": 141.4
+  },
+  {
+   "a": "nolan",
+   "do": "walk",
+   "path": [
+    [
+     29.6,
+     -5.15
+    ],
+    [
+     29.0,
+     -6.0
+    ],
+    [
+     22.8,
+     -6.0
+    ]
+   ],
+   "speed": 1.3,
+   "t": 142.6
+  },
+  {
+   "a": "nolan",
+   "do": "place",
+   "pos": [
+    -10.6,
+    4.5,
+    20.7
+   ],
+   "face": 0.9048,
+   "t": 146.2
+  },
+  {
+   "a": "nolan",
+   "do": "expr",
+   "v": "neutral",
+   "t": 146.2
+  },
+  {
+   "a": "nolan",
+   "do": "walk",
+   "path": [
+    [
+     -10.6,
+     20.7
+    ],
+    [
+     -6.4,
+     24.0
+    ],
+    [
+     -4.0,
+     24.6
+    ],
+    [
+     -1.4,
+     25.6
+    ],
+    [
+     0.4,
+     26.1
+    ]
+   ],
+   "speed": 1.35,
+   "face": -0.8961,
+   "t": 146.4
+  },
+  {
+   "a": "director",
+   "do": "look",
+   "at": "nolan",
+   "t": 153.6
+  },
+  {
+   "a": "nolan",
+   "do": "look",
+   "at": "director",
+   "t": 154.0
+  },
+  {
+   "a": "director",
+   "do": "look",
+   "at": [
+    0.0,
+    6.5,
+    28.44
+   ],
+   "t": 156.6
+  },
+  {
+   "a": "director",
+   "do": "face",
+   "v": 0.7675,
+   "t": 156.8
+  },
+  {
+   "a": "director",
+   "do": "gesture",
+   "v": "point",
+   "t": 157.0
+  },
+  {
+   "mc": "wall",
+   "v": "missions",
+   "t": 157.4
+  },
+  {
+   "sub": {
+    "who": "director",
+    "ar": "لديّ مهمتان يا نولان. ولن أختار عنك.",
+    "en": "I have two missions, Nolan. And I won't choose for you.",
+    "dur": 3.4,
+    "vo": false
+   },
+   "t": 157.6
+  },
+  {
+   "a": "director",
+   "do": "gesture",
+   "v": "none",
+   "t": 159.6
+  },
+  {
+   "a": "director",
+   "do": "face",
+   "v": 2.2455,
+   "t": 159.8
+  },
+  {
+   "a": "director",
+   "do": "look",
+   "at": "nolan",
+   "t": 160.0
+  },
+  {
+   "a": "nolan",
+   "do": "look",
+   "at": [
+    0.0,
+    6.5,
+    28.44
+   ],
+   "t": 160.4
+  },
+  {
+   "a": "nolan",
+   "do": "face",
+   "v": 0.0,
+   "t": 160.6
+  },
+  {
+   "sub": {
+    "who": "director",
+    "ar": "الأولى: EOS-2110-047. نشر قمر صناعي في مدار الأرض. أسبوعان. مهمة روتينية.",
+    "en": "The first: EOS-2110-047. A satellite deployment in Earth orbit. Two weeks. Routine.",
+    "dur": 5.0,
+    "vo": false
+   },
+   "t": 161.6
+  },
+  {
+   "mc": "highlight",
+   "v": "A",
+   "t": 161.6
+  },
+  {
+   "sub": {
+    "who": "director",
+    "ar": "الثانية: آريس. لم يذهب أحد إلى هناك منذ ثلاثين عامًا… ولا أحد يعرف ما الذي يرسل تلك الإشارة.",
+    "en": "The second: Ares. No one has been there in thirty years… and no one knows what is sending that signal.",
+    "dur": 5.2,
+    "vo": false
+   },
+   "t": 167.6
+  },
+  {
+   "mc": "highlight",
+   "v": "B",
+   "t": 167.6
+  },
+  {
+   "a": "nolan",
+   "do": "expr",
+   "v": "thoughtful",
+   "t": 172.6
+  },
+  {
+   "a": "nolan",
+   "do": "look",
+   "at": [
+    0.2,
+    6.3,
+    28.4
+   ],
+   "t": 172.8
+  },
+  {
+   "mc": "highlight",
+   "v": "both",
+   "t": 173.4
+  },
+  {
+   "a": "nolan",
+   "do": "look",
+   "at": [
+    0.0,
+    6.5,
+    28.44
+   ],
+   "t": 176.0
+  },
+  {
+   "pause": "mission_select",
+   "t": 180.0
+  }
+ ],
+ "actors": {
+  "nolan": {
+   "name_ar": "نولان",
+   "name_en": "Nolan",
+   "role": "Astronaut, expedition leader",
+   "look": {
+    "top": "Char_Navy",
+    "skin": "Char_Skin_B",
+    "hair": "buzz",
+    "beard": true,
+    "accent": "Emissive_Amber",
+    "patch": "Char_Patch"
+   }
+  },
+  "director": {
+   "name_ar": "د. أمارا سِن",
+   "name_en": "Dr. Amara Sen",
+   "role": "Director, Deep Space Operations",
+   "look": {
+    "top": "Char_Graphite",
+    "skin": "Char_Skin_C",
+    "hair": "bun",
+    "hairMat": "Char_Hair_Brown",
+    "accent": "Emissive_Amber"
+   }
+  },
+  "operator": {
+   "name_ar": "إيلي نافارو",
+   "name_en": "Eli Navarro",
+   "role": "Signal monitoring operator",
+   "look": {
+    "top": "Char_Navy",
+    "skin": "Char_Skin_A",
+    "hair": "short",
+    "headset": true
+   }
+  },
+  "officer": {
+   "name_ar": "توماس رييس",
+   "name_en": "Tomas Reyes",
+   "role": "Mission operations officer",
+   "look": {
+    "top": "Char_Graphite",
+    "skin": "Char_Skin_A",
+    "hair": "short",
+    "hairMat": "Char_Hair_Gray",
+    "coat": true
+   }
+  },
+  "extra1": {
+   "name_en": "Engineer",
+   "look": {
+    "top": "Char_Lab",
+    "skin": "Char_Skin_C",
+    "hair": "long",
+    "hairMat": "Char_Hair_Brown"
+   },
+   "extra": true
+  },
+  "extra2": {
+   "name_en": "Engineer",
+   "look": {
+    "top": "Char_Graphite",
+    "skin": "Char_Skin_B",
+    "hair": "short"
+   },
+   "extra": true
+  }
+ },
+ "missions": [
+  {
+   "id": "EOS-2110-047",
+   "ar_title": "نشر قمر صناعي · مدار الأرض",
+   "en_title": "Satellite deployment · Earth orbit",
+   "ar": "مهمة إطلاق روتينية لنشر القمر الصناعي EOS قرب الأرض. أسبوعان. خطر منخفض.",
+   "en": "A routine launch to deploy the EOS satellite near Earth. Two weeks. Low risk.",
+   "risk": "LOW"
+  },
+  {
+   "id": "ARES-RETURN",
+   "ar_title": "تحقيق في محطة آريس · المريخ",
+   "en_title": "Investigation · Ares Research Station, Mars",
+   "ar": "رحلة إلى المحطة المهجورة لكشف مصدر الإشارة. لم يذهب أحد إلى هناك منذ ثلاثين عامًا. خطر شديد.",
+   "en": "A journey to the abandoned station to find the source of the signal. No one has been there in thirty years. Extreme risk.",
+   "risk": "EXTREME"
+  }
+ ]
+}

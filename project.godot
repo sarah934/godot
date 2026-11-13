@@ -1,0 +1,25 @@
+; Engine configuration file.
+; Chapter 1 — The Signal from Mars (UESA, 2110). Cinematic sequence for Godot 4.3+.
+
+config_version=5
+
+[application]
+
+config/name="Chapter 1 — The Signal from Mars"
+config/description="Ten-shot cinematic: Meridian Mission Control (2110), the Ares disaster flashback (2080), the signal, and Nolan's mission choice."
+run/main_scene="res://main.tscn"
+config/features=PackedStringArray("4.3", "Forward Plus")
+
+[display]
+
+window/size/viewport_width=1600
+window/size/viewport_height=900
+
+[gui]
+
+theme/custom_font="res://fonts/DejaVuSans.ttf"
+
+[rendering]
+
+lights_and_shadows/directional_shadow/size=4096
+anti_aliasing/quality/msaa_3d=2
